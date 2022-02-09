@@ -1,0 +1,21 @@
+[
+    {
+        "id": 1,
+        "name": "Amepay",
+        "symbol": "ame",
+        "coingecko_id": "amepay",
+        "current_price": "0.00670541",
+        "rank": null,
+        "image": "https://assets.coingecko.com/coins/images/13539/large/1dPdUxIy_400x400.png?1609596297",
+        "price_change_percentage_24h": "-4.87767",
+        "market_cap": 696386779934,
+        "total_volume": 18131325506,
+        "circulating_supply": 18947693.0,
+        "roi": "-66.52",
+        "launch_date":1644314669014,
+        "whitepaper_url":"https://whitepaper.amechain.io/",
+        "project_url":"https://amechain.io/",
+        "coin_description":"https://raw.githubusercontent.com/elankovan-amepay/test_json/main/ame_description.md"
+
+    }
+]
