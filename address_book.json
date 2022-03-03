@@ -3,7 +3,7 @@
       "main_account": "eth",
         "coinicon_url":"https://raw.githubusercontent.com/elankovan-amepay/test_json/main/eth.png",
       "account_name": "useramepay_ilai",
-      "public_address": "111",
+      "public_address": "0xf8343C6Daf3c3E49577f0ca106c621Beea717969",
       "contact_address": [
         {"userName":"elangovan-0", "publicAddress": "0xf8343C6Daf3c3E49577f0ca106c621Beea717969"},
         {"userName":"priyanka-0", "publicAddress": "0x419650e51BE46820f43F03E3E055ff2834545F94"}
@@ -14,7 +14,7 @@
       "main_account": "amepay",
         "coinicon_url":"https://raw.githubusercontent.com/elankovan-amepay/test_json/main/amepay.png",
       "account_name": "usereth_ilai",
-      "public_address": "222",
+      "public_address": "0xf8343C6Daf3c3E49577f0ca106c621Beea717969",
       "contact_address": [
         {"userName":"Nippu-1", "publicAddress": "0xb350760bD1c43DF39Fd9b5AA56AAD53F2aeeaf23"},
         {"userName":"Malai-1", "publicAddress": "0x3081b8d50EFeCED0AC780A64b4B676c99C45F782"}
@@ -28,7 +28,7 @@
       "main_account": "ame",
         "coinicon_url":"https://raw.githubusercontent.com/elankovan-amepay/test_json/main/ame.png",
       "account_name": "usererc_ilai",
-      "public_address": "333",
+      "public_address": "0xf8343C6Daf3c3E49577f0ca106c621Beea717969",
       "contact_address": [
         {"userName":"elangovan-0", "publicAddress": "0xf8343C6Daf3c3E49577f0ca106c621Beea717969"}
       ],
