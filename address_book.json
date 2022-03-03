@@ -1,7 +1,7 @@
 [
     {
       "main_account": "eth",
-        "coinicon_url":"https://github.com/elankovan-amepay/test_json/blob/main/eth.png",
+        "coinicon_url":"https://raw.githubusercontent.com/elankovan-amepay/test_json/main/eth.png",
       "account_name": "useramepay_ilai",
       "public_address": "111",
       "contact_address": [
@@ -12,7 +12,7 @@
     },
     {
       "main_account": "amepay",
-        "coinicon_url":"https://github.com/elankovan-amepay/test_json/blob/main/amepay.png",
+        "coinicon_url":"https://raw.githubusercontent.com/elankovan-amepay/test_json/main/amepay.png",
       "account_name": "usereth_ilai",
       "public_address": "222",
       "contact_address": [
@@ -26,7 +26,7 @@
     },
     {
       "main_account": "ame",
-        "coinicon_url":"https://github.com/elankovan-amepay/test_json/blob/main/ame.png",
+        "coinicon_url":"https://raw.githubusercontent.com/elankovan-amepay/test_json/main/ame.png",
       "account_name": "usererc_ilai",
       "public_address": "333",
       "contact_address": [
