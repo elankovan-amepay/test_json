@@ -1,0 +1,74 @@
+[
+  {
+    "feed_title":"NFTs in Music",
+    "feed_subtitle": "This is feed subtitle to be diaplayed in one or two lines",
+    "feed_description": "This is the feed description to be displayed in 2 to 3 lines, and it needs to be very precise and ...",
+    "read_time": "7",
+    "feed_type": "Article",
+    "feed_poster":"https://github.com/elankovan-amepay/test_json/raw/main/temp_test.jpg",
+    "feed_icon":"https://amepay.io/media/images/111121BLOG2_1_RGI1QaJ.2e16d0ba.fill-350x200-c75.jpg",
+    "feed_date":"Nov-19, 2021",
+    "feed_code":"19nov21",
+    "feed_content":"https://raw.githubusercontent.com/elankovan-amepay/test_json/main/19nov21.md"
+  },
+  {
+    "feed_title":"NFTs presence in the market",
+    "feed_subtitle": "This is feed subtitle to be diaplayed in one or two lines",
+    "feed_description": "This is the feed description to be displayed in 2 to 3 lines, and it needs to be very precise and ...",
+    "read_time": "6",
+    "feed_type": "News",
+    "feed_poster":"https://github.com/elankovan-amepay/test_json/raw/main/temp_test.jpg",
+    "feed_icon":"https://amepay.io/media/images/111121BLOG2_1_RGI1QaJ.2e16d0ba.fill-350x200-c75.jpg",
+    "feed_date":"Nov-13, 2021",
+    "feed_code":"13nov21",
+    "feed_content":"https://raw.githubusercontent.com/elankovan-amepay/test_json/main/13nov21.md"
+  },
+  {
+    "feed_title":"Cryptocurrency & NFTs",
+    "feed_subtitle": "This is feed subtitle to be diaplayed in one or two lines",
+    "feed_description": "This is the feed description to be displayed in 2 to 3 lines, and it needs to be very precise and ...",
+    "read_time": "1",
+    "feed_type": "Article",
+    "feed_poster":"https://github.com/elankovan-amepay/test_json/raw/main/temp_test.jpg",
+    "feed_icon":"https://amepay.io/media/images/111121BLOG2_1_RGI1QaJ.2e16d0ba.fill-350x200-c75.jpg",
+    "feed_date":"Nov-10, 2021",
+    "feed_code":"10nov21",
+    "feed_content":"https://raw.githubusercontent.com/elankovan-amepay/test_json/main/10nov21.md"
+  },
+  {
+    "feed_title":"The Future of Digital Assets",
+    "feed_subtitle": "This is feed subtitle to be diaplayed in one or two lines",
+    "feed_description": "This is the feed description to be displayed in 2 to 3 lines, and it needs to be very precise and ...",
+    "read_time": "2",
+    "feed_type": "News",
+    "feed_poster":"https://github.com/elankovan-amepay/test_json/raw/main/temp_test.jpg",
+    "feed_icon":"https://amepay.io/media/images/111121BLOG2_1_RGI1QaJ.2e16d0ba.fill-350x200-c75.jpg",
+    "feed_date":"Oct-7, 2021",
+    "feed_code":"07oct21",
+    "feed_content":"https://raw.githubusercontent.com/elankovan-amepay/test_json/main/07oct21.md"
+  },
+  {
+    "feed_title":"AMEPAY advantages",
+    "feed_subtitle": "This is feed subtitle to be diaplayed in one or two lines",
+    "feed_description": "This is the feed description to be displayed in 2 to 3 lines, and it needs to be very precise and ...",
+    "read_time": "3",
+    "feed_type": "Article",
+    "feed_poster":"https://github.com/elankovan-amepay/test_json/raw/main/temp_test.jpg",
+    "feed_icon":"https://amepay.io/media/images/111121BLOG2_1_RGI1QaJ.2e16d0ba.fill-350x200-c75.jpg",
+    "feed_date":"Sep-30, 2021",
+    "feed_code":"30sep21",
+    "feed_content":"https://raw.githubusercontent.com/elankovan-amepay/test_json/main/30sep21.md"
+  },
+  {
+    "feed_title":"STAKING in AMEPAY",
+    "feed_subtitle": "This is feed subtitle to be diaplayed in one or two lines",
+    "feed_description": "This is the feed description to be displayed in 2 to 3 lines, and it needs to be very precise and ...",
+    "read_time": "4",
+    "feed_type": "Article",
+    "feed_poster":"https://github.com/elankovan-amepay/test_json/raw/main/temp_test.jpg",
+    "feed_icon":"https://amepay.io/media/images/111121BLOG2_1_RGI1QaJ.2e16d0ba.fill-350x200-c75.jpg",
+    "feed_date":"Sep-14, 2021",
+    "feed_code":"14sep21",
+    "feed_content":"https://raw.githubusercontent.com/elankovan-amepay/test_json/main/14sep21.md"
+  }
+]
