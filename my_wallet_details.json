@@ -1,0 +1,40 @@
+{
+    "walletID":"WALL-111-222-333",
+    "activityLog": [
+      {
+        "remarks": "Wallet created successfully",
+        "log_type": "message"
+      },
+      {
+        "remarks": "ETH Main account added sccesfully",
+        "log_type": "message"
+      },
+      {
+        "remarks": "Sent 250 AME to 0x2343...4567",
+        "log_type": "sent"
+      },
+      {
+        "remarks": "Received 250 AME to 0x2343...4567",
+        "log_type": "received"
+      }
+
+    ],
+    "my_accounts": [
+      {
+        "main_account":"eth",
+        "publicAddress":"P1-111-222-333",
+        "privateKey":"PK1-111-222-333",
+        "balance": "1111111"
+      },{
+        "main_account":"amepay",
+        "publicAddress":"P2-111-222-333",
+        "privateKey":"PK2-111-222-333",
+        "balance": "2222222"
+      },{
+        "main_account":"ame",
+        "publicAddress":"P3-111-222-333",
+        "privateKey":"PK3-111-222-333",
+        "balance": "3333333"
+      }
+    ]
+  }
