@@ -24,17 +24,17 @@
         "main_account":"eth",
         "publicAddress":"P1-111-222-333",
         "privateKey":"PK1-111-222-333",
-        "balance": 1111111
+        "balance": 1111111.123
       },{
         "main_account":"amepay",
         "publicAddress":"P2-111-222-333",
         "privateKey":"PK2-111-222-333",
-        "balance": 2222222
+        "balance": 2222222.123
       },{
         "main_account":"ame",
         "publicAddress":"P3-111-222-333",
         "privateKey":"PK3-111-222-333",
-        "balance": 3333333
+        "balance": 3333333.123
       }
     ]
   }
