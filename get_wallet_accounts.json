@@ -1,0 +1,17 @@
+[
+    {
+        "main_account": "eth",
+        "account_name": "eth_main_account",
+        "public_address": "0xf8343c6daf3c3e49577f0ca106c621beea717901"
+    },
+    {
+        "main_account": "ametoken",
+        "account_name": "ametocke_main_account",
+        "public_address": "0xf8343c6daf3c3e49577f0ca106c621beea717901"
+    },
+    {
+        "main_account": "ame",
+        "account_name": "ame_main_account",
+        "public_address": "0xf8343c6daf3c3e49577f0ca106c621beea717901"
+    }
+]
