@@ -1,24 +1,22 @@
 {
-  "userWalletID": "0xf8343c6daf3c3e49577f0ca106c621beea717999",
-  "activityLog": [
-    {"message_title":"Wallet created successfully",
-      "log_type":"account",
-      "message_subtitle": "",
-      "timestamp": 1646751178655
+  "activity_log":[
+    {
+      "timestamp":1646813962945,
+      "message_title":"Wallet created successfully!",
+      "message_subtitle":"A new wallet has been created at 10:01 AM",
+      "type":"log"
     },
-    {"message_title":"Sent 1000 AME to @priyanka 0x1234...4321",
-      "log_type":"sent",
-      "message_subtitle": "",
-      "timestamp": 1646751178655
+    {
+      "timestamp":1646813962945,
+      "message_title":"25 AME sent to @ame_main_priyanga",
+      "message_subtitle":"Transaction of 25 AME sent from @eth_main_account to 0x1234...4321",
+      "type":"sent"
     },
-    {"message_title":"Received 12 ETH from 0x1111...2222",
-      "log_type":"received",
-      "message_subtitle": "",
-      "timestamp": 1646751178655
-    },
-    {"message_title":"Transaction submitted to the network",
-      "log_type":"pending",
-      "message_subtitle": "Sending 120 AME from @ame_main_account to 0x2222...3333",
-      "timestamp": 1646751178655
-    }]
+    {
+      "timestamp":1646813962945,
+      "message_title":"This is updated Json from GitHub Raw",
+      "message_subtitle":"Transaction of 25 AME sent from @eth_main_account to 0x1234...4321",
+      "type":"sent"
+    }
+  ]
 }
