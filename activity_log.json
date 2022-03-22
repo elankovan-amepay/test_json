@@ -23,6 +23,18 @@
       "message_title":"New message has been added",
       "message_subtitle":"Transaction of 25 AME sent from @eth_main_account to 0x1234...4321",
       "type":"Received"
+    },
+    {
+      "timestamp":1646813962945,
+      "message_title":"New message has been added",
+      "message_subtitle":"Transaction of 25 AME sent from @eth_main_account to 0x1234...4321",
+      "type":"Pending"
+    }
+    {
+      "timestamp":1646813962945,
+      "message_title":"New message has been added",
+      "message_subtitle":"Transaction of 25 AME sent from @eth_main_account to 0x1234...4321",
+      "type":"Info"
     }
   ]
 }
