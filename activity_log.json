@@ -1,19 +1,19 @@
 {
   "activity_log":[
     {
-      "timestamp":1646813962945,
+      "timestamp":1647934449463,
       "message_title":"Wallet created successfully!",
       "message_subtitle":"A new wallet has been created at 10:01 AM",
       "type":"Activity"
     },
     {
-      "timestamp":1646813962945,
+      "timestamp":1646813962800,
       "message_title":"25 AME sent to @ame_main_priyanga",
       "message_subtitle":"Transaction of 25 AME sent from @eth_main_account to 0x1234...4321",
       "type":"Sent"
     },
     {
-      "timestamp":1646813962945,
+      "timestamp":1646813962900,
       "message_title":"This is updated Json from GitHub Raw",
       "message_subtitle":"Transaction of 25 AME sent from @eth_main_account to 0x1234...4321",
       "type":"Sent"
@@ -31,7 +31,7 @@
       "type":"Pending"
     },
     {
-      "timestamp":1646813962945,
+      "timestamp":1646813962500,
       "message_title":"New message has been added",
       "message_subtitle":"Transaction of 25 AME sent from @eth_main_account to 0x1234...4321",
       "type":"Info"
