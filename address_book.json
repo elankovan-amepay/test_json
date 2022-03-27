@@ -18,7 +18,7 @@
       "account_name": "usereth_ilai",
       "public_address": "0xf8343C6Daf3c3E49577f0ca106c621Beea717969",
         "private_key": "0x111111111",
-      "contact_address": [
+      "contacts": [
         {"user_name":"Nippu-1", "public_address": "0xb350760bD1c43DF39Fd9b5AA56AAD53F2aeeaf23"},
         {"user_name":"Malai-1", "public_address": "0x3081b8d50EFeCED0AC780A64b4B676c99C45F782"}
       ],
@@ -33,7 +33,7 @@
       "account_name": "usererc_ilai",
       "public_address": "0xf8343C6Daf3c3E49577f0ca106c621Beea717969",
         "private_key": "0x222222222",
-      "contact_address": [
+      "contacts": [
         {"user_name":"elangovan-0", "public_address": "0xf8343C6Daf3c3E49577f0ca106c621Beea717969"}
       ],
       "transaction_hash": []
