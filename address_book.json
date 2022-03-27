@@ -6,9 +6,9 @@
       "public_address": "0xf8343C6Daf3c3E49577f0ca106c621Beea717969",
        "private_key": "0x000000000",
 
-      "contact_address": [
-        {"userName":"elangovan-0", "publicAddress": "0xf8343C6Daf3c3E49577f0ca106c621Beea717969"},
-        {"userName":"priyanka-0", "publicAddress": "0x419650e51BE46820f43F03E3E055ff2834545F94"}
+      "contacts": [
+        {"user_name":"elangovan-0", "public_address": "0xf8343C6Daf3c3E49577f0ca106c621Beea717969"},
+        {"user_name":"priyanka-0", "public_address": "0x419650e51BE46820f43F03E3E055ff2834545F94"}
       ],
       "transaction_hash": []
     },
@@ -19,8 +19,8 @@
       "public_address": "0xf8343C6Daf3c3E49577f0ca106c621Beea717969",
         "private_key": "0x111111111",
       "contact_address": [
-        {"userName":"Nippu-1", "publicAddress": "0xb350760bD1c43DF39Fd9b5AA56AAD53F2aeeaf23"},
-        {"userName":"Malai-1", "publicAddress": "0x3081b8d50EFeCED0AC780A64b4B676c99C45F782"}
+        {"user_name":"Nippu-1", "public_address": "0xb350760bD1c43DF39Fd9b5AA56AAD53F2aeeaf23"},
+        {"user_name":"Malai-1", "public_address": "0x3081b8d50EFeCED0AC780A64b4B676c99C45F782"}
       ],
       "transaction_hash": [
         {"timestamp":"2022-01-11 11:20:42.259277","transHash": "0x727f215d21214879f800065a5221cef5445633f41d201c0f0cd63722648fc7d3"},
@@ -34,7 +34,7 @@
       "public_address": "0xf8343C6Daf3c3E49577f0ca106c621Beea717969",
         "private_key": "0x222222222",
       "contact_address": [
-        {"userName":"elangovan-0", "publicAddress": "0xf8343C6Daf3c3E49577f0ca106c621Beea717969"}
+        {"user_name":"elangovan-0", "public_address": "0xf8343C6Daf3c3E49577f0ca106c621Beea717969"}
       ],
       "transaction_hash": []
     }
