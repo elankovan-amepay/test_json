@@ -24,6 +24,8 @@
   },
   {
     "tx_hash":"0x340d838632886f8c228d834fb4a89ecc8a6051183fd7a0c53f3d7b37eaf98dee",
+     "from":"0xf8343C6Daf3c3E49577f0ca106c621Beea717969",
+    "to":"0x419650e51BE46820f43F03E3E055ff2834545F94",
     "timestamp": 1646813962545,
     "amount": 30.25,
     "gas_fees": 0.000105,
