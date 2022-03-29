@@ -1,0 +1,39 @@
+{
+"wallet_id":"1416994613975497394804273300418980030400261355881",
+"main_account": "eth",
+"public_address": "0xf8343c6daf3c3e49577f0ca106c621beea717991",
+"transactions" : [
+  {
+"tx_hash":"0x340d838632886f8c228d834fb4a89ecc8a6051183fd7a0c53f3d7b37eaf98dee",
+"timestamp": 1646813962145,
+"amount": 10.25,
+"gas_fees": 0.000105,
+"total_amount": 20.2500105,
+"type":"Sent"
+},
+  {
+"tx_hash":"0x340d838632886f8c228d834fb4a89ecc8a6051183fd7a0c53f3d7b37eaf98dee",
+"timestamp": 1646813962345,
+"amount": 20.25,
+"gas_fees": 0.000105,
+"total_amount": 20.2500105,
+"type":"Sent"
+},
+  {
+"tx_hash":"0x340d838632886f8c228d834fb4a89ecc8a6051183fd7a0c53f3d7b37eaf98dee",
+"timestamp": 1646813962545,
+"amount": 30.25,
+"gas_fees": 0.000105,
+"total_amount": 20.2500105,
+"type":"Received"
+},
+  {
+"tx_hash":"0x340d838632886f8c228d834fb4a89ecc8a6051183fd7a0c53f3d7b37eaf98dee",
+"timestamp": 1646813962145,
+"amount": 10.25,
+"gas_fees": 0.000105,
+"total_amount": 20.2500105,
+"type":"Sent"
+}
+]
+}
