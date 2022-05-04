@@ -1,0 +1,15 @@
+{
+"wallet_id": "1416994613975497394804273300418980030400261355881",
+"main_account": "ame",
+"public_address": "0xf8343c6daf3c3e49577f0ca106c621beea717969",
+"pending_transactions": [
+        {
+            "id": 112,
+            "transaction_hash": "0xcbc3c123af7999b5e3b91a3c1970b031ac78e24bcad58a706508713ae95b4a5d"
+        },
+        {
+            "id": 113,
+            "transaction_hash": "0x3652162223803af610dd7fdb27d8f455664ca164b847bde4eb8b5fb7b36576d2"
+        }
+        ]
+}
