@@ -1,0 +1,56 @@
+[
+  {
+    "index": 0,
+    "symbol": "BTC",
+    "exchange_rates_all": [
+      {
+        "index": 0,
+        "exchange_name": "binance",
+        "exchange_rate": 100.0,
+        "exchange_unit": "USDT"
+      },
+      {
+        "index": 1,
+        "exchange_name": "gate.io",
+        "exchange_rate": 101.0,
+        "exchange_unit": "USDT"
+      }
+    ]
+  },
+  {
+    "index": 1,
+    "symbol": "ETH",
+    "exchange_rates_all": [
+      {
+        "index": 0,
+        "exchange_name": "binance",
+        "exchange_rate": 50.0,
+        "exchange_unit": "USDT"
+      },
+      {
+        "index": 1,
+        "exchange_name": "gate.io",
+        "exchange_rate": 51.0,
+        "exchange_unit": "USDT"
+      }
+    ]
+  },
+  {
+    "index": 2,
+    "symbol": "BNB",
+    "exchange_rates_all": [
+      {
+        "index": 0,
+        "exchange_name": "binance",
+        "exchange_rate": 200.0,
+        "exchange_unit": "USDT"
+      },
+      {
+        "index": 1,
+        "exchange_name": "gate.io",
+        "exchange_rate": 202.0,
+        "exchange_unit": "USDT"
+      }
+    ]
+  }
+]
