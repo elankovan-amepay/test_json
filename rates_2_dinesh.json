@@ -1,0 +1,2550 @@
+[
+  {
+    "index": 0,
+    "symbol": "BTC",
+    "exchange_rates_all": [
+      {
+        "index": 0,
+        "exchange_name": "binance",
+        "exchange_rate": 100.0,
+        "exchange_unit": "USDT"
+      },
+      {
+        "index": 1,
+        "exchange_name": "FTX",
+        "exchange_rate": 101.0,
+        "exchange_unit": "USDT"
+      },
+      {
+        "index": 2,
+        "exchange_name": "HUOBI",
+        "exchange_rate": 102.0,
+        "exchange_unit": "USDT"
+      },
+      {
+        "index": 3,
+        "exchange_name": "KUCOIN",
+        "exchange_rate": 103.0,
+        "exchange_unit": "USDT"
+      },
+      {
+        "index": 4,
+        "exchange_name": "MEXC",
+        "exchange_rate": 104.0,
+        "exchange_unit": "USDT"
+      },
+      {
+        "index": 5,
+        "exchange_name": "ByBit",
+        "exchange_rate": 99.0,
+        "exchange_unit": "USDT"
+      },
+      {
+        "index": 6,
+        "exchange_name": "Gate.io",
+        "exchange_rate": 98.0,
+        "exchange_unit": "USDT"
+      }
+
+    ]
+  },
+  {
+    "index": 1,
+    "symbol": "ETH",
+    "exchange_rates_all": [
+      {
+        "index": 0,
+        "exchange_name": "binance",
+        "exchange_rate": 100.0,
+        "exchange_unit": "USDT"
+      },
+      {
+        "index": 1,
+        "exchange_name": "FTX",
+        "exchange_rate": 101.0,
+        "exchange_unit": "USDT"
+      },
+      {
+        "index": 2,
+        "exchange_name": "HUOBI",
+        "exchange_rate": 102.0,
+        "exchange_unit": "USDT"
+      },
+      {
+        "index": 3,
+        "exchange_name": "KUCOIN",
+        "exchange_rate": 103.0,
+        "exchange_unit": "USDT"
+      },
+      {
+        "index": 4,
+        "exchange_name": "MEXC",
+        "exchange_rate": 104.0,
+        "exchange_unit": "USDT"
+      },
+      {
+        "index": 5,
+        "exchange_name": "ByBit",
+        "exchange_rate": 99.0,
+        "exchange_unit": "USDT"
+      },
+      {
+        "index": 6,
+        "exchange_name": "Gate.io",
+        "exchange_rate": 98.0,
+        "exchange_unit": "USDT"
+      }
+
+    ]
+  },
+  {
+    "index": 2,
+    "symbol": "CAKE",
+    "exchange_rates_all": [
+      {
+        "index": 0,
+        "exchange_name": "binance",
+        "exchange_rate": 100.0,
+        "exchange_unit": "USDT"
+      },
+      {
+        "index": 1,
+        "exchange_name": "FTX",
+        "exchange_rate": 101.0,
+        "exchange_unit": "USDT"
+      },
+      {
+        "index": 2,
+        "exchange_name": "HUOBI",
+        "exchange_rate": 102.0,
+        "exchange_unit": "USDT"
+      },
+      {
+        "index": 3,
+        "exchange_name": "KUCOIN",
+        "exchange_rate": 103.0,
+        "exchange_unit": "USDT"
+      },
+      {
+        "index": 4,
+        "exchange_name": "MEXC",
+        "exchange_rate": 104.0,
+        "exchange_unit": "USDT"
+      },
+      {
+        "index": 5,
+        "exchange_name": "ByBit",
+        "exchange_rate": 99.0,
+        "exchange_unit": "USDT"
+      },
+      {
+        "index": 6,
+        "exchange_name": "Gate.io",
+        "exchange_rate": 98.0,
+        "exchange_unit": "USDT"
+      }
+
+    ]
+  },
+  {
+    "index": 3,
+    "symbol": "CHZ",
+    "exchange_rates_all": [
+      {
+        "index": 0,
+        "exchange_name": "binance",
+        "exchange_rate": 100.0,
+        "exchange_unit": "USDT"
+      },
+      {
+        "index": 1,
+        "exchange_name": "FTX",
+        "exchange_rate": 101.0,
+        "exchange_unit": "USDT"
+      },
+      {
+        "index": 2,
+        "exchange_name": "HUOBI",
+        "exchange_rate": 102.0,
+        "exchange_unit": "USDT"
+      },
+      {
+        "index": 3,
+        "exchange_name": "KUCOIN",
+        "exchange_rate": 103.0,
+        "exchange_unit": "USDT"
+      },
+      {
+        "index": 4,
+        "exchange_name": "MEXC",
+        "exchange_rate": 104.0,
+        "exchange_unit": "USDT"
+      },
+      {
+        "index": 5,
+        "exchange_name": "ByBit",
+        "exchange_rate": 99.0,
+        "exchange_unit": "USDT"
+      },
+      {
+        "index": 6,
+        "exchange_name": "Gate.io",
+        "exchange_rate": 98.0,
+        "exchange_unit": "USDT"
+      }
+
+    ]
+  },
+  {
+    "index": 4,
+    "symbol": "COMP",
+    "exchange_rates_all": [
+      {
+        "index": 0,
+        "exchange_name": "binance",
+        "exchange_rate": 100.0,
+        "exchange_unit": "USDT"
+      },
+      {
+        "index": 1,
+        "exchange_name": "FTX",
+        "exchange_rate": 101.0,
+        "exchange_unit": "USDT"
+      },
+      {
+        "index": 2,
+        "exchange_name": "HUOBI",
+        "exchange_rate": 102.0,
+        "exchange_unit": "USDT"
+      },
+      {
+        "index": 3,
+        "exchange_name": "KUCOIN",
+        "exchange_rate": 103.0,
+        "exchange_unit": "USDT"
+      },
+      {
+        "index": 4,
+        "exchange_name": "MEXC",
+        "exchange_rate": 104.0,
+        "exchange_unit": "USDT"
+      },
+      {
+        "index": 5,
+        "exchange_name": "ByBit",
+        "exchange_rate": 99.0,
+        "exchange_unit": "USDT"
+      },
+      {
+        "index": 6,
+        "exchange_name": "Gate.io",
+        "exchange_rate": 98.0,
+        "exchange_unit": "USDT"
+      }
+
+    ]
+  },
+  {
+    "index": 5,
+    "symbol": "CRV",
+    "exchange_rates_all": [
+      {
+        "index": 0,
+        "exchange_name": "binance",
+        "exchange_rate": 100.0,
+        "exchange_unit": "USDT"
+      },
+      {
+        "index": 1,
+        "exchange_name": "FTX",
+        "exchange_rate": 101.0,
+        "exchange_unit": "USDT"
+      },
+      {
+        "index": 2,
+        "exchange_name": "HUOBI",
+        "exchange_rate": 102.0,
+        "exchange_unit": "USDT"
+      },
+      {
+        "index": 3,
+        "exchange_name": "KUCOIN",
+        "exchange_rate": 103.0,
+        "exchange_unit": "USDT"
+      },
+      {
+        "index": 4,
+        "exchange_name": "MEXC",
+        "exchange_rate": 104.0,
+        "exchange_unit": "USDT"
+      },
+      {
+        "index": 5,
+        "exchange_name": "ByBit",
+        "exchange_rate": 99.0,
+        "exchange_unit": "USDT"
+      },
+      {
+        "index": 6,
+        "exchange_name": "Gate.io",
+        "exchange_rate": 98.0,
+        "exchange_unit": "USDT"
+      }
+
+    ]
+  },
+  {
+    "index": 6,
+    "symbol": "CTK",
+    "exchange_rates_all": [
+      {
+        "index": 0,
+        "exchange_name": "binance",
+        "exchange_rate": 100.0,
+        "exchange_unit": "USDT"
+      },
+      {
+        "index": 1,
+        "exchange_name": "FTX",
+        "exchange_rate": 101.0,
+        "exchange_unit": "USDT"
+      },
+      {
+        "index": 2,
+        "exchange_name": "HUOBI",
+        "exchange_rate": 102.0,
+        "exchange_unit": "USDT"
+      },
+      {
+        "index": 3,
+        "exchange_name": "KUCOIN",
+        "exchange_rate": 103.0,
+        "exchange_unit": "USDT"
+      },
+      {
+        "index": 4,
+        "exchange_name": "MEXC",
+        "exchange_rate": 104.0,
+        "exchange_unit": "USDT"
+      },
+      {
+        "index": 5,
+        "exchange_name": "ByBit",
+        "exchange_rate": 99.0,
+        "exchange_unit": "USDT"
+      },
+      {
+        "index": 6,
+        "exchange_name": "Gate.io",
+        "exchange_rate": 98.0,
+        "exchange_unit": "USDT"
+      }
+
+    ]
+  },
+  {
+    "index": 7,
+    "symbol": "CTSI",
+    "exchange_rates_all": [
+      {
+        "index": 0,
+        "exchange_name": "binance",
+        "exchange_rate": 100.0,
+        "exchange_unit": "USDT"
+      },
+      {
+        "index": 1,
+        "exchange_name": "FTX",
+        "exchange_rate": 101.0,
+        "exchange_unit": "USDT"
+      },
+      {
+        "index": 2,
+        "exchange_name": "HUOBI",
+        "exchange_rate": 102.0,
+        "exchange_unit": "USDT"
+      },
+      {
+        "index": 3,
+        "exchange_name": "KUCOIN",
+        "exchange_rate": 103.0,
+        "exchange_unit": "USDT"
+      },
+      {
+        "index": 4,
+        "exchange_name": "MEXC",
+        "exchange_rate": 104.0,
+        "exchange_unit": "USDT"
+      },
+      {
+        "index": 5,
+        "exchange_name": "ByBit",
+        "exchange_rate": 99.0,
+        "exchange_unit": "USDT"
+      },
+      {
+        "index": 6,
+        "exchange_name": "Gate.io",
+        "exchange_rate": 98.0,
+        "exchange_unit": "USDT"
+      }
+
+    ]
+  },
+  {
+    "index": 8,
+    "symbol": "DAI",
+    "exchange_rates_all": [
+      {
+        "index": 0,
+        "exchange_name": "binance",
+        "exchange_rate": 100.0,
+        "exchange_unit": "USDT"
+      },
+      {
+        "index": 1,
+        "exchange_name": "FTX",
+        "exchange_rate": 101.0,
+        "exchange_unit": "USDT"
+      },
+      {
+        "index": 2,
+        "exchange_name": "HUOBI",
+        "exchange_rate": 102.0,
+        "exchange_unit": "USDT"
+      },
+      {
+        "index": 3,
+        "exchange_name": "KUCOIN",
+        "exchange_rate": 103.0,
+        "exchange_unit": "USDT"
+      },
+      {
+        "index": 4,
+        "exchange_name": "MEXC",
+        "exchange_rate": 104.0,
+        "exchange_unit": "USDT"
+      },
+      {
+        "index": 5,
+        "exchange_name": "ByBit",
+        "exchange_rate": 99.0,
+        "exchange_unit": "USDT"
+      },
+      {
+        "index": 6,
+        "exchange_name": "Gate.io",
+        "exchange_rate": 98.0,
+        "exchange_unit": "USDT"
+      }
+
+    ]
+  },
+  {
+    "index": 9,
+    "symbol": "DAR",
+    "exchange_rates_all": [
+      {
+        "index": 0,
+        "exchange_name": "binance",
+        "exchange_rate": 100.0,
+        "exchange_unit": "USDT"
+      },
+      {
+        "index": 1,
+        "exchange_name": "FTX",
+        "exchange_rate": 101.0,
+        "exchange_unit": "USDT"
+      },
+      {
+        "index": 2,
+        "exchange_name": "HUOBI",
+        "exchange_rate": 102.0,
+        "exchange_unit": "USDT"
+      },
+      {
+        "index": 3,
+        "exchange_name": "KUCOIN",
+        "exchange_rate": 103.0,
+        "exchange_unit": "USDT"
+      },
+      {
+        "index": 4,
+        "exchange_name": "MEXC",
+        "exchange_rate": 104.0,
+        "exchange_unit": "USDT"
+      },
+      {
+        "index": 5,
+        "exchange_name": "ByBit",
+        "exchange_rate": 99.0,
+        "exchange_unit": "USDT"
+      },
+      {
+        "index": 6,
+        "exchange_name": "Gate.io",
+        "exchange_rate": 98.0,
+        "exchange_unit": "USDT"
+      }
+
+    ]
+  },
+  {
+    "index": 10,
+    "symbol": "DASH",
+    "exchange_rates_all": [
+      {
+        "index": 0,
+        "exchange_name": "binance",
+        "exchange_rate": 100.0,
+        "exchange_unit": "USDT"
+      },
+      {
+        "index": 1,
+        "exchange_name": "FTX",
+        "exchange_rate": 101.0,
+        "exchange_unit": "USDT"
+      },
+      {
+        "index": 2,
+        "exchange_name": "HUOBI",
+        "exchange_rate": 102.0,
+        "exchange_unit": "USDT"
+      },
+      {
+        "index": 3,
+        "exchange_name": "KUCOIN",
+        "exchange_rate": 103.0,
+        "exchange_unit": "USDT"
+      },
+      {
+        "index": 4,
+        "exchange_name": "MEXC",
+        "exchange_rate": 104.0,
+        "exchange_unit": "USDT"
+      },
+      {
+        "index": 5,
+        "exchange_name": "ByBit",
+        "exchange_rate": 99.0,
+        "exchange_unit": "USDT"
+      },
+      {
+        "index": 6,
+        "exchange_name": "Gate.io",
+        "exchange_rate": 98.0,
+        "exchange_unit": "USDT"
+      }
+
+    ]
+  },
+  {
+    "index": 11,
+    "symbol": "DOGE",
+    "exchange_rates_all": [
+      {
+        "index": 0,
+        "exchange_name": "binance",
+        "exchange_rate": 100.0,
+        "exchange_unit": "USDT"
+      },
+      {
+        "index": 1,
+        "exchange_name": "FTX",
+        "exchange_rate": 101.0,
+        "exchange_unit": "USDT"
+      },
+      {
+        "index": 2,
+        "exchange_name": "HUOBI",
+        "exchange_rate": 102.0,
+        "exchange_unit": "USDT"
+      },
+      {
+        "index": 3,
+        "exchange_name": "KUCOIN",
+        "exchange_rate": 103.0,
+        "exchange_unit": "USDT"
+      },
+      {
+        "index": 4,
+        "exchange_name": "MEXC",
+        "exchange_rate": 104.0,
+        "exchange_unit": "USDT"
+      },
+      {
+        "index": 5,
+        "exchange_name": "ByBit",
+        "exchange_rate": 99.0,
+        "exchange_unit": "USDT"
+      },
+      {
+        "index": 6,
+        "exchange_name": "Gate.io",
+        "exchange_rate": 98.0,
+        "exchange_unit": "USDT"
+      }
+
+    ]
+  },
+  {
+    "index": 12,
+    "symbol": "ONT",
+    "exchange_rates_all": [
+      {
+        "index": 0,
+        "exchange_name": "binance",
+        "exchange_rate": 100.0,
+        "exchange_unit": "USDT"
+      },
+      {
+        "index": 1,
+        "exchange_name": "FTX",
+        "exchange_rate": 101.0,
+        "exchange_unit": "USDT"
+      },
+      {
+        "index": 2,
+        "exchange_name": "HUOBI",
+        "exchange_rate": 102.0,
+        "exchange_unit": "USDT"
+      },
+      {
+        "index": 3,
+        "exchange_name": "KUCOIN",
+        "exchange_rate": 103.0,
+        "exchange_unit": "USDT"
+      },
+      {
+        "index": 4,
+        "exchange_name": "MEXC",
+        "exchange_rate": 104.0,
+        "exchange_unit": "USDT"
+      },
+      {
+        "index": 5,
+        "exchange_name": "ByBit",
+        "exchange_rate": 99.0,
+        "exchange_unit": "USDT"
+      },
+      {
+        "index": 6,
+        "exchange_name": "Gate.io",
+        "exchange_rate": 98.0,
+        "exchange_unit": "USDT"
+      }
+
+    ]
+  },
+  {
+    "index": 13,
+    "symbol": "RUNE",
+    "exchange_rates_all": [
+      {
+        "index": 0,
+        "exchange_name": "binance",
+        "exchange_rate": 100.0,
+        "exchange_unit": "USDT"
+      },
+      {
+        "index": 1,
+        "exchange_name": "FTX",
+        "exchange_rate": 101.0,
+        "exchange_unit": "USDT"
+      },
+      {
+        "index": 2,
+        "exchange_name": "HUOBI",
+        "exchange_rate": 102.0,
+        "exchange_unit": "USDT"
+      },
+      {
+        "index": 3,
+        "exchange_name": "KUCOIN",
+        "exchange_rate": 103.0,
+        "exchange_unit": "USDT"
+      },
+      {
+        "index": 4,
+        "exchange_name": "MEXC",
+        "exchange_rate": 104.0,
+        "exchange_unit": "USDT"
+      },
+      {
+        "index": 5,
+        "exchange_name": "ByBit",
+        "exchange_rate": 99.0,
+        "exchange_unit": "USDT"
+      },
+      {
+        "index": 6,
+        "exchange_name": "Gate.io",
+        "exchange_rate": 98.0,
+        "exchange_unit": "USDT"
+      }
+
+    ]
+  },
+  {
+    "index": 14,
+    "symbol": "SAND",
+    "exchange_rates_all": [
+      {
+        "index": 0,
+        "exchange_name": "binance",
+        "exchange_rate": 100.0,
+        "exchange_unit": "USDT"
+      },
+      {
+        "index": 1,
+        "exchange_name": "FTX",
+        "exchange_rate": 101.0,
+        "exchange_unit": "USDT"
+      },
+      {
+        "index": 2,
+        "exchange_name": "HUOBI",
+        "exchange_rate": 102.0,
+        "exchange_unit": "USDT"
+      },
+      {
+        "index": 3,
+        "exchange_name": "KUCOIN",
+        "exchange_rate": 103.0,
+        "exchange_unit": "USDT"
+      },
+      {
+        "index": 4,
+        "exchange_name": "MEXC",
+        "exchange_rate": 104.0,
+        "exchange_unit": "USDT"
+      },
+      {
+        "index": 5,
+        "exchange_name": "ByBit",
+        "exchange_rate": 99.0,
+        "exchange_unit": "USDT"
+      },
+      {
+        "index": 6,
+        "exchange_name": "Gate.io",
+        "exchange_rate": 98.0,
+        "exchange_unit": "USDT"
+      }
+
+    ]
+  },
+  {
+    "index": 15,
+    "symbol": "SLP",
+    "exchange_rates_all": [
+      {
+        "index": 0,
+        "exchange_name": "binance",
+        "exchange_rate": 100.0,
+        "exchange_unit": "USDT"
+      },
+      {
+        "index": 1,
+        "exchange_name": "FTX",
+        "exchange_rate": 101.0,
+        "exchange_unit": "USDT"
+      },
+      {
+        "index": 2,
+        "exchange_name": "HUOBI",
+        "exchange_rate": 102.0,
+        "exchange_unit": "USDT"
+      },
+      {
+        "index": 3,
+        "exchange_name": "KUCOIN",
+        "exchange_rate": 103.0,
+        "exchange_unit": "USDT"
+      },
+      {
+        "index": 4,
+        "exchange_name": "MEXC",
+        "exchange_rate": 104.0,
+        "exchange_unit": "USDT"
+      },
+      {
+        "index": 5,
+        "exchange_name": "ByBit",
+        "exchange_rate": 99.0,
+        "exchange_unit": "USDT"
+      },
+      {
+        "index": 6,
+        "exchange_name": "Gate.io",
+        "exchange_rate": 98.0,
+        "exchange_unit": "USDT"
+      }
+
+    ]
+  },
+  {
+    "index": 16,
+    "symbol": "SNX",
+    "exchange_rates_all": [
+      {
+        "index": 0,
+        "exchange_name": "binance",
+        "exchange_rate": 100.0,
+        "exchange_unit": "USDT"
+      },
+      {
+        "index": 1,
+        "exchange_name": "FTX",
+        "exchange_rate": 101.0,
+        "exchange_unit": "USDT"
+      },
+      {
+        "index": 2,
+        "exchange_name": "HUOBI",
+        "exchange_rate": 102.0,
+        "exchange_unit": "USDT"
+      },
+      {
+        "index": 3,
+        "exchange_name": "KUCOIN",
+        "exchange_rate": 103.0,
+        "exchange_unit": "USDT"
+      },
+      {
+        "index": 4,
+        "exchange_name": "MEXC",
+        "exchange_rate": 104.0,
+        "exchange_unit": "USDT"
+      },
+      {
+        "index": 5,
+        "exchange_name": "ByBit",
+        "exchange_rate": 99.0,
+        "exchange_unit": "USDT"
+      },
+      {
+        "index": 6,
+        "exchange_name": "Gate.io",
+        "exchange_rate": 98.0,
+        "exchange_unit": "USDT"
+      }
+
+    ]
+  },
+  {
+    "index": 17,
+    "symbol": "SOL",
+    "exchange_rates_all": [
+      {
+        "index": 0,
+        "exchange_name": "binance",
+        "exchange_rate": 100.0,
+        "exchange_unit": "USDT"
+      },
+      {
+        "index": 1,
+        "exchange_name": "FTX",
+        "exchange_rate": 101.0,
+        "exchange_unit": "USDT"
+      },
+      {
+        "index": 2,
+        "exchange_name": "HUOBI",
+        "exchange_rate": 102.0,
+        "exchange_unit": "USDT"
+      },
+      {
+        "index": 3,
+        "exchange_name": "KUCOIN",
+        "exchange_rate": 103.0,
+        "exchange_unit": "USDT"
+      },
+      {
+        "index": 4,
+        "exchange_name": "MEXC",
+        "exchange_rate": 104.0,
+        "exchange_unit": "USDT"
+      },
+      {
+        "index": 5,
+        "exchange_name": "ByBit",
+        "exchange_rate": 99.0,
+        "exchange_unit": "USDT"
+      },
+      {
+        "index": 6,
+        "exchange_name": "Gate.io",
+        "exchange_rate": 98.0,
+        "exchange_unit": "USDT"
+      }
+
+    ]
+  },
+  {
+    "index": 18,
+    "symbol": "STORJ",
+    "exchange_rates_all": [
+      {
+        "index": 0,
+        "exchange_name": "binance",
+        "exchange_rate": 100.0,
+        "exchange_unit": "USDT"
+      },
+      {
+        "index": 1,
+        "exchange_name": "FTX",
+        "exchange_rate": 101.0,
+        "exchange_unit": "USDT"
+      },
+      {
+        "index": 2,
+        "exchange_name": "HUOBI",
+        "exchange_rate": 102.0,
+        "exchange_unit": "USDT"
+      },
+      {
+        "index": 3,
+        "exchange_name": "KUCOIN",
+        "exchange_rate": 103.0,
+        "exchange_unit": "USDT"
+      },
+      {
+        "index": 4,
+        "exchange_name": "MEXC",
+        "exchange_rate": 104.0,
+        "exchange_unit": "USDT"
+      },
+      {
+        "index": 5,
+        "exchange_name": "ByBit",
+        "exchange_rate": 99.0,
+        "exchange_unit": "USDT"
+      },
+      {
+        "index": 6,
+        "exchange_name": "Gate.io",
+        "exchange_rate": 98.0,
+        "exchange_unit": "USDT"
+      }
+
+    ]
+  },
+  {
+    "index": 19,
+    "symbol": "SUSHI",
+    "exchange_rates_all": [
+      {
+        "index": 0,
+        "exchange_name": "binance",
+        "exchange_rate": 100.0,
+        "exchange_unit": "USDT"
+      },
+      {
+        "index": 1,
+        "exchange_name": "FTX",
+        "exchange_rate": 101.0,
+        "exchange_unit": "USDT"
+      },
+      {
+        "index": 2,
+        "exchange_name": "HUOBI",
+        "exchange_rate": 102.0,
+        "exchange_unit": "USDT"
+      },
+      {
+        "index": 3,
+        "exchange_name": "KUCOIN",
+        "exchange_rate": 103.0,
+        "exchange_unit": "USDT"
+      },
+      {
+        "index": 4,
+        "exchange_name": "MEXC",
+        "exchange_rate": 104.0,
+        "exchange_unit": "USDT"
+      },
+      {
+        "index": 5,
+        "exchange_name": "ByBit",
+        "exchange_rate": 99.0,
+        "exchange_unit": "USDT"
+      },
+      {
+        "index": 6,
+        "exchange_name": "Gate.io",
+        "exchange_rate": 98.0,
+        "exchange_unit": "USDT"
+      }
+
+    ]
+  },
+  {
+    "index": 20,
+    "symbol": "SXP",
+    "exchange_rates_all": [
+      {
+        "index": 0,
+        "exchange_name": "binance",
+        "exchange_rate": 100.0,
+        "exchange_unit": "USDT"
+      },
+      {
+        "index": 1,
+        "exchange_name": "FTX",
+        "exchange_rate": 101.0,
+        "exchange_unit": "USDT"
+      },
+      {
+        "index": 2,
+        "exchange_name": "HUOBI",
+        "exchange_rate": 102.0,
+        "exchange_unit": "USDT"
+      },
+      {
+        "index": 3,
+        "exchange_name": "KUCOIN",
+        "exchange_rate": 103.0,
+        "exchange_unit": "USDT"
+      },
+      {
+        "index": 4,
+        "exchange_name": "MEXC",
+        "exchange_rate": 104.0,
+        "exchange_unit": "USDT"
+      },
+      {
+        "index": 5,
+        "exchange_name": "ByBit",
+        "exchange_rate": 99.0,
+        "exchange_unit": "USDT"
+      },
+      {
+        "index": 6,
+        "exchange_name": "Gate.io",
+        "exchange_rate": 98.0,
+        "exchange_unit": "USDT"
+      }
+
+    ]
+  },
+  {
+    "index": 21,
+    "symbol": "THETA",
+    "exchange_rates_all": [
+      {
+        "index": 0,
+        "exchange_name": "binance",
+        "exchange_rate": 100.0,
+        "exchange_unit": "USDT"
+      },
+      {
+        "index": 1,
+        "exchange_name": "FTX",
+        "exchange_rate": 101.0,
+        "exchange_unit": "USDT"
+      },
+      {
+        "index": 2,
+        "exchange_name": "HUOBI",
+        "exchange_rate": 102.0,
+        "exchange_unit": "USDT"
+      },
+      {
+        "index": 3,
+        "exchange_name": "KUCOIN",
+        "exchange_rate": 103.0,
+        "exchange_unit": "USDT"
+      },
+      {
+        "index": 4,
+        "exchange_name": "MEXC",
+        "exchange_rate": 104.0,
+        "exchange_unit": "USDT"
+      },
+      {
+        "index": 5,
+        "exchange_name": "ByBit",
+        "exchange_rate": 99.0,
+        "exchange_unit": "USDT"
+      },
+      {
+        "index": 6,
+        "exchange_name": "Gate.io",
+        "exchange_rate": 98.0,
+        "exchange_unit": "USDT"
+      }
+
+    ]
+  },
+  {
+    "index": 22,
+    "symbol": "TLM",
+    "exchange_rates_all": [
+      {
+        "index": 0,
+        "exchange_name": "binance",
+        "exchange_rate": 100.0,
+        "exchange_unit": "USDT"
+      },
+      {
+        "index": 1,
+        "exchange_name": "FTX",
+        "exchange_rate": 101.0,
+        "exchange_unit": "USDT"
+      },
+      {
+        "index": 2,
+        "exchange_name": "HUOBI",
+        "exchange_rate": 102.0,
+        "exchange_unit": "USDT"
+      },
+      {
+        "index": 3,
+        "exchange_name": "KUCOIN",
+        "exchange_rate": 103.0,
+        "exchange_unit": "USDT"
+      },
+      {
+        "index": 4,
+        "exchange_name": "MEXC",
+        "exchange_rate": 104.0,
+        "exchange_unit": "USDT"
+      },
+      {
+        "index": 5,
+        "exchange_name": "ByBit",
+        "exchange_rate": 99.0,
+        "exchange_unit": "USDT"
+      },
+      {
+        "index": 6,
+        "exchange_name": "Gate.io",
+        "exchange_rate": 98.0,
+        "exchange_unit": "USDT"
+      }
+
+    ]
+  },
+  {
+    "index": 23,
+    "symbol": "LINK",
+    "exchange_rates_all": [
+      {
+        "index": 0,
+        "exchange_name": "binance",
+        "exchange_rate": 100.0,
+        "exchange_unit": "USDT"
+      },
+      {
+        "index": 1,
+        "exchange_name": "FTX",
+        "exchange_rate": 101.0,
+        "exchange_unit": "USDT"
+      },
+      {
+        "index": 2,
+        "exchange_name": "HUOBI",
+        "exchange_rate": 102.0,
+        "exchange_unit": "USDT"
+      },
+      {
+        "index": 3,
+        "exchange_name": "KUCOIN",
+        "exchange_rate": 103.0,
+        "exchange_unit": "USDT"
+      },
+      {
+        "index": 4,
+        "exchange_name": "MEXC",
+        "exchange_rate": 104.0,
+        "exchange_unit": "USDT"
+      },
+      {
+        "index": 5,
+        "exchange_name": "ByBit",
+        "exchange_rate": 99.0,
+        "exchange_unit": "USDT"
+      },
+      {
+        "index": 6,
+        "exchange_name": "Gate.io",
+        "exchange_rate": 98.0,
+        "exchange_unit": "USDT"
+      }
+
+    ]
+  },
+  {
+    "index": 24,
+    "symbol": "LTC",
+    "exchange_rates_all": [
+      {
+        "index": 0,
+        "exchange_name": "binance",
+        "exchange_rate": 100.0,
+        "exchange_unit": "USDT"
+      },
+      {
+        "index": 1,
+        "exchange_name": "FTX",
+        "exchange_rate": 101.0,
+        "exchange_unit": "USDT"
+      },
+      {
+        "index": 2,
+        "exchange_name": "HUOBI",
+        "exchange_rate": 102.0,
+        "exchange_unit": "USDT"
+      },
+      {
+        "index": 3,
+        "exchange_name": "KUCOIN",
+        "exchange_rate": 103.0,
+        "exchange_unit": "USDT"
+      },
+      {
+        "index": 4,
+        "exchange_name": "MEXC",
+        "exchange_rate": 104.0,
+        "exchange_unit": "USDT"
+      },
+      {
+        "index": 5,
+        "exchange_name": "ByBit",
+        "exchange_rate": 99.0,
+        "exchange_unit": "USDT"
+      },
+      {
+        "index": 6,
+        "exchange_name": "Gate.io",
+        "exchange_rate": 98.0,
+        "exchange_unit": "USDT"
+      }
+
+    ]
+  },
+  {
+    "index": 25,
+    "symbol": "MANA",
+    "exchange_rates_all": [
+      {
+        "index": 0,
+        "exchange_name": "binance",
+        "exchange_rate": 100.0,
+        "exchange_unit": "USDT"
+      },
+      {
+        "index": 1,
+        "exchange_name": "FTX",
+        "exchange_rate": 101.0,
+        "exchange_unit": "USDT"
+      },
+      {
+        "index": 2,
+        "exchange_name": "HUOBI",
+        "exchange_rate": 102.0,
+        "exchange_unit": "USDT"
+      },
+      {
+        "index": 3,
+        "exchange_name": "KUCOIN",
+        "exchange_rate": 103.0,
+        "exchange_unit": "USDT"
+      },
+      {
+        "index": 4,
+        "exchange_name": "MEXC",
+        "exchange_rate": 104.0,
+        "exchange_unit": "USDT"
+      },
+      {
+        "index": 5,
+        "exchange_name": "ByBit",
+        "exchange_rate": 99.0,
+        "exchange_unit": "USDT"
+      },
+      {
+        "index": 6,
+        "exchange_name": "Gate.io",
+        "exchange_rate": 98.0,
+        "exchange_unit": "USDT"
+      }
+
+    ]
+  },
+  {
+    "index": 26,
+    "symbol": "MATIC",
+    "exchange_rates_all": [
+      {
+        "index": 0,
+        "exchange_name": "binance",
+        "exchange_rate": 100.0,
+        "exchange_unit": "USDT"
+      },
+      {
+        "index": 1,
+        "exchange_name": "FTX",
+        "exchange_rate": 101.0,
+        "exchange_unit": "USDT"
+      },
+      {
+        "index": 2,
+        "exchange_name": "HUOBI",
+        "exchange_rate": 102.0,
+        "exchange_unit": "USDT"
+      },
+      {
+        "index": 3,
+        "exchange_name": "KUCOIN",
+        "exchange_rate": 103.0,
+        "exchange_unit": "USDT"
+      },
+      {
+        "index": 4,
+        "exchange_name": "MEXC",
+        "exchange_rate": 104.0,
+        "exchange_unit": "USDT"
+      },
+      {
+        "index": 5,
+        "exchange_name": "ByBit",
+        "exchange_rate": 99.0,
+        "exchange_unit": "USDT"
+      },
+      {
+        "index": 6,
+        "exchange_name": "Gate.io",
+        "exchange_rate": 98.0,
+        "exchange_unit": "USDT"
+      }
+
+    ]
+  },
+  {
+    "index": 27,
+    "symbol": "MBOX",
+    "exchange_rates_all": [
+      {
+        "index": 0,
+        "exchange_name": "binance",
+        "exchange_rate": 100.0,
+        "exchange_unit": "USDT"
+      },
+      {
+        "index": 1,
+        "exchange_name": "FTX",
+        "exchange_rate": 101.0,
+        "exchange_unit": "USDT"
+      },
+      {
+        "index": 2,
+        "exchange_name": "HUOBI",
+        "exchange_rate": 102.0,
+        "exchange_unit": "USDT"
+      },
+      {
+        "index": 3,
+        "exchange_name": "KUCOIN",
+        "exchange_rate": 103.0,
+        "exchange_unit": "USDT"
+      },
+      {
+        "index": 4,
+        "exchange_name": "MEXC",
+        "exchange_rate": 104.0,
+        "exchange_unit": "USDT"
+      },
+      {
+        "index": 5,
+        "exchange_name": "ByBit",
+        "exchange_rate": 99.0,
+        "exchange_unit": "USDT"
+      },
+      {
+        "index": 6,
+        "exchange_name": "Gate.io",
+        "exchange_rate": 98.0,
+        "exchange_unit": "USDT"
+      }
+
+    ]
+  },
+  {
+    "index": 28,
+    "symbol": "MITH",
+    "exchange_rates_all": [
+      {
+        "index": 0,
+        "exchange_name": "binance",
+        "exchange_rate": 100.0,
+        "exchange_unit": "USDT"
+      },
+      {
+        "index": 1,
+        "exchange_name": "FTX",
+        "exchange_rate": 101.0,
+        "exchange_unit": "USDT"
+      },
+      {
+        "index": 2,
+        "exchange_name": "HUOBI",
+        "exchange_rate": 102.0,
+        "exchange_unit": "USDT"
+      },
+      {
+        "index": 3,
+        "exchange_name": "KUCOIN",
+        "exchange_rate": 103.0,
+        "exchange_unit": "USDT"
+      },
+      {
+        "index": 4,
+        "exchange_name": "MEXC",
+        "exchange_rate": 104.0,
+        "exchange_unit": "USDT"
+      },
+      {
+        "index": 5,
+        "exchange_name": "ByBit",
+        "exchange_rate": 99.0,
+        "exchange_unit": "USDT"
+      },
+      {
+        "index": 6,
+        "exchange_name": "Gate.io",
+        "exchange_rate": 98.0,
+        "exchange_unit": "USDT"
+      }
+
+    ]
+  },
+  {
+    "index": 29,
+    "symbol": "MTL",
+    "exchange_rates_all": [
+      {
+        "index": 0,
+        "exchange_name": "binance",
+        "exchange_rate": 100.0,
+        "exchange_unit": "USDT"
+      },
+      {
+        "index": 1,
+        "exchange_name": "FTX",
+        "exchange_rate": 101.0,
+        "exchange_unit": "USDT"
+      },
+      {
+        "index": 2,
+        "exchange_name": "HUOBI",
+        "exchange_rate": 102.0,
+        "exchange_unit": "USDT"
+      },
+      {
+        "index": 3,
+        "exchange_name": "KUCOIN",
+        "exchange_rate": 103.0,
+        "exchange_unit": "USDT"
+      },
+      {
+        "index": 4,
+        "exchange_name": "MEXC",
+        "exchange_rate": 104.0,
+        "exchange_unit": "USDT"
+      },
+      {
+        "index": 5,
+        "exchange_name": "ByBit",
+        "exchange_rate": 99.0,
+        "exchange_unit": "USDT"
+      },
+      {
+        "index": 6,
+        "exchange_name": "Gate.io",
+        "exchange_rate": 98.0,
+        "exchange_unit": "USDT"
+      }
+
+    ]
+  },
+  {
+    "index": 30,
+    "symbol": "NBS",
+    "exchange_rates_all": [
+      {
+        "index": 0,
+        "exchange_name": "binance",
+        "exchange_rate": 100.0,
+        "exchange_unit": "USDT"
+      },
+      {
+        "index": 1,
+        "exchange_name": "FTX",
+        "exchange_rate": 101.0,
+        "exchange_unit": "USDT"
+      },
+      {
+        "index": 2,
+        "exchange_name": "HUOBI",
+        "exchange_rate": 102.0,
+        "exchange_unit": "USDT"
+      },
+      {
+        "index": 3,
+        "exchange_name": "KUCOIN",
+        "exchange_rate": 103.0,
+        "exchange_unit": "USDT"
+      },
+      {
+        "index": 4,
+        "exchange_name": "MEXC",
+        "exchange_rate": 104.0,
+        "exchange_unit": "USDT"
+      },
+      {
+        "index": 5,
+        "exchange_name": "ByBit",
+        "exchange_rate": 99.0,
+        "exchange_unit": "USDT"
+      },
+      {
+        "index": 6,
+        "exchange_name": "Gate.io",
+        "exchange_rate": 98.0,
+        "exchange_unit": "USDT"
+      }
+
+    ]
+  },
+  {
+    "index": 31,
+    "symbol": "NEAR",
+    "exchange_rates_all": [
+      {
+        "index": 0,
+        "exchange_name": "binance",
+        "exchange_rate": 100.0,
+        "exchange_unit": "USDT"
+      },
+      {
+        "index": 1,
+        "exchange_name": "FTX",
+        "exchange_rate": 101.0,
+        "exchange_unit": "USDT"
+      },
+      {
+        "index": 2,
+        "exchange_name": "HUOBI",
+        "exchange_rate": 102.0,
+        "exchange_unit": "USDT"
+      },
+      {
+        "index": 3,
+        "exchange_name": "KUCOIN",
+        "exchange_rate": 103.0,
+        "exchange_unit": "USDT"
+      },
+      {
+        "index": 4,
+        "exchange_name": "MEXC",
+        "exchange_rate": 104.0,
+        "exchange_unit": "USDT"
+      },
+      {
+        "index": 5,
+        "exchange_name": "ByBit",
+        "exchange_rate": 99.0,
+        "exchange_unit": "USDT"
+      },
+      {
+        "index": 6,
+        "exchange_name": "Gate.io",
+        "exchange_rate": 98.0,
+        "exchange_unit": "USDT"
+      }
+
+    ]
+  },
+  {
+    "index": 32,
+    "symbol": "NEO",
+    "exchange_rates_all": [
+      {
+        "index": 0,
+        "exchange_name": "binance",
+        "exchange_rate": 100.0,
+        "exchange_unit": "USDT"
+      },
+      {
+        "index": 1,
+        "exchange_name": "FTX",
+        "exchange_rate": 101.0,
+        "exchange_unit": "USDT"
+      },
+      {
+        "index": 2,
+        "exchange_name": "HUOBI",
+        "exchange_rate": 102.0,
+        "exchange_unit": "USDT"
+      },
+      {
+        "index": 3,
+        "exchange_name": "KUCOIN",
+        "exchange_rate": 103.0,
+        "exchange_unit": "USDT"
+      },
+      {
+        "index": 4,
+        "exchange_name": "MEXC",
+        "exchange_rate": 104.0,
+        "exchange_unit": "USDT"
+      },
+      {
+        "index": 5,
+        "exchange_name": "ByBit",
+        "exchange_rate": 99.0,
+        "exchange_unit": "USDT"
+      },
+      {
+        "index": 6,
+        "exchange_name": "Gate.io",
+        "exchange_rate": 98.0,
+        "exchange_unit": "USDT"
+      }
+
+    ]
+  },
+  {
+    "index": 33,
+    "symbol": "ONT",
+    "exchange_rates_all": [
+      {
+        "index": 0,
+        "exchange_name": "binance",
+        "exchange_rate": 100.0,
+        "exchange_unit": "USDT"
+      },
+      {
+        "index": 1,
+        "exchange_name": "FTX",
+        "exchange_rate": 101.0,
+        "exchange_unit": "USDT"
+      },
+      {
+        "index": 2,
+        "exchange_name": "HUOBI",
+        "exchange_rate": 102.0,
+        "exchange_unit": "USDT"
+      },
+      {
+        "index": 3,
+        "exchange_name": "KUCOIN",
+        "exchange_rate": 103.0,
+        "exchange_unit": "USDT"
+      },
+      {
+        "index": 4,
+        "exchange_name": "MEXC",
+        "exchange_rate": 104.0,
+        "exchange_unit": "USDT"
+      },
+      {
+        "index": 5,
+        "exchange_name": "ByBit",
+        "exchange_rate": 99.0,
+        "exchange_unit": "USDT"
+      },
+      {
+        "index": 6,
+        "exchange_name": "Gate.io",
+        "exchange_rate": 98.0,
+        "exchange_unit": "USDT"
+      }
+
+    ]
+  },
+  {
+    "index": 34,
+    "symbol": "BAKE",
+    "exchange_rates_all": [
+      {
+        "index": 0,
+        "exchange_name": "binance",
+        "exchange_rate": 100.0,
+        "exchange_unit": "USDT"
+      },
+      {
+        "index": 1,
+        "exchange_name": "FTX",
+        "exchange_rate": 101.0,
+        "exchange_unit": "USDT"
+      },
+      {
+        "index": 2,
+        "exchange_name": "HUOBI",
+        "exchange_rate": 102.0,
+        "exchange_unit": "USDT"
+      },
+      {
+        "index": 3,
+        "exchange_name": "KUCOIN",
+        "exchange_rate": 103.0,
+        "exchange_unit": "USDT"
+      },
+      {
+        "index": 4,
+        "exchange_name": "MEXC",
+        "exchange_rate": 104.0,
+        "exchange_unit": "USDT"
+      },
+      {
+        "index": 5,
+        "exchange_name": "ByBit",
+        "exchange_rate": 99.0,
+        "exchange_unit": "USDT"
+      },
+      {
+        "index": 6,
+        "exchange_name": "Gate.io",
+        "exchange_rate": 98.0,
+        "exchange_unit": "USDT"
+      }
+
+    ]
+  },
+  {
+    "index": 35,
+    "symbol": "BAL",
+    "exchange_rates_all": [
+      {
+        "index": 0,
+        "exchange_name": "binance",
+        "exchange_rate": 100.0,
+        "exchange_unit": "USDT"
+      },
+      {
+        "index": 1,
+        "exchange_name": "FTX",
+        "exchange_rate": 101.0,
+        "exchange_unit": "USDT"
+      },
+      {
+        "index": 2,
+        "exchange_name": "HUOBI",
+        "exchange_rate": 102.0,
+        "exchange_unit": "USDT"
+      },
+      {
+        "index": 3,
+        "exchange_name": "KUCOIN",
+        "exchange_rate": 103.0,
+        "exchange_unit": "USDT"
+      },
+      {
+        "index": 4,
+        "exchange_name": "MEXC",
+        "exchange_rate": 104.0,
+        "exchange_unit": "USDT"
+      },
+      {
+        "index": 5,
+        "exchange_name": "ByBit",
+        "exchange_rate": 99.0,
+        "exchange_unit": "USDT"
+      },
+      {
+        "index": 6,
+        "exchange_name": "Gate.io",
+        "exchange_rate": 98.0,
+        "exchange_unit": "USDT"
+      }
+
+    ]
+  },
+  {
+    "index": 36,
+    "symbol": "BAND",
+    "exchange_rates_all": [
+      {
+        "index": 0,
+        "exchange_name": "binance",
+        "exchange_rate": 100.0,
+        "exchange_unit": "USDT"
+      },
+      {
+        "index": 1,
+        "exchange_name": "FTX",
+        "exchange_rate": 101.0,
+        "exchange_unit": "USDT"
+      },
+      {
+        "index": 2,
+        "exchange_name": "HUOBI",
+        "exchange_rate": 102.0,
+        "exchange_unit": "USDT"
+      },
+      {
+        "index": 3,
+        "exchange_name": "KUCOIN",
+        "exchange_rate": 103.0,
+        "exchange_unit": "USDT"
+      },
+      {
+        "index": 4,
+        "exchange_name": "MEXC",
+        "exchange_rate": 104.0,
+        "exchange_unit": "USDT"
+      },
+      {
+        "index": 5,
+        "exchange_name": "ByBit",
+        "exchange_rate": 99.0,
+        "exchange_unit": "USDT"
+      },
+      {
+        "index": 6,
+        "exchange_name": "Gate.io",
+        "exchange_rate": 98.0,
+        "exchange_unit": "USDT"
+      }
+
+    ]
+  },
+  {
+    "index": 37,
+    "symbol": "BTC",
+    "exchange_rates_all": [
+      {
+        "index": 0,
+        "exchange_name": "binance",
+        "exchange_rate": 100.0,
+        "exchange_unit": "USDT"
+      },
+      {
+        "index": 1,
+        "exchange_name": "FTX",
+        "exchange_rate": 101.0,
+        "exchange_unit": "USDT"
+      },
+      {
+        "index": 2,
+        "exchange_name": "HUOBI",
+        "exchange_rate": 102.0,
+        "exchange_unit": "USDT"
+      },
+      {
+        "index": 3,
+        "exchange_name": "KUCOIN",
+        "exchange_rate": 103.0,
+        "exchange_unit": "USDT"
+      },
+      {
+        "index": 4,
+        "exchange_name": "MEXC",
+        "exchange_rate": 104.0,
+        "exchange_unit": "USDT"
+      },
+      {
+        "index": 5,
+        "exchange_name": "ByBit",
+        "exchange_rate": 99.0,
+        "exchange_unit": "USDT"
+      },
+      {
+        "index": 6,
+        "exchange_name": "Gate.io",
+        "exchange_rate": 98.0,
+        "exchange_unit": "USDT"
+      }
+
+    ]
+  },
+  {
+    "index": 38,
+    "symbol": "BTS",
+    "exchange_rates_all": [
+      {
+        "index": 0,
+        "exchange_name": "binance",
+        "exchange_rate": 100.0,
+        "exchange_unit": "USDT"
+      },
+      {
+        "index": 1,
+        "exchange_name": "FTX",
+        "exchange_rate": 101.0,
+        "exchange_unit": "USDT"
+      },
+      {
+        "index": 2,
+        "exchange_name": "HUOBI",
+        "exchange_rate": 102.0,
+        "exchange_unit": "USDT"
+      },
+      {
+        "index": 3,
+        "exchange_name": "KUCOIN",
+        "exchange_rate": 103.0,
+        "exchange_unit": "USDT"
+      },
+      {
+        "index": 4,
+        "exchange_name": "MEXC",
+        "exchange_rate": 104.0,
+        "exchange_unit": "USDT"
+      },
+      {
+        "index": 5,
+        "exchange_name": "ByBit",
+        "exchange_rate": 99.0,
+        "exchange_unit": "USDT"
+      },
+      {
+        "index": 6,
+        "exchange_name": "Gate.io",
+        "exchange_rate": 98.0,
+        "exchange_unit": "USDT"
+      }
+
+    ]
+  },
+  {
+    "index": 38,
+    "symbol": "BUSD",
+    "exchange_rates_all": [
+      {
+        "index": 0,
+        "exchange_name": "binance",
+        "exchange_rate": 100.0,
+        "exchange_unit": "USDT"
+      },
+      {
+        "index": 1,
+        "exchange_name": "FTX",
+        "exchange_rate": 101.0,
+        "exchange_unit": "USDT"
+      },
+      {
+        "index": 2,
+        "exchange_name": "HUOBI",
+        "exchange_rate": 102.0,
+        "exchange_unit": "USDT"
+      },
+      {
+        "index": 3,
+        "exchange_name": "KUCOIN",
+        "exchange_rate": 103.0,
+        "exchange_unit": "USDT"
+      },
+      {
+        "index": 4,
+        "exchange_name": "MEXC",
+        "exchange_rate": 104.0,
+        "exchange_unit": "USDT"
+      },
+      {
+        "index": 5,
+        "exchange_name": "ByBit",
+        "exchange_rate": 99.0,
+        "exchange_unit": "USDT"
+      },
+      {
+        "index": 6,
+        "exchange_name": "Gate.io",
+        "exchange_rate": 98.0,
+        "exchange_unit": "USDT"
+      }
+
+    ]
+  },
+  {
+    "index": 39,
+    "symbol": "CHR",
+    "exchange_rates_all": [
+      {
+        "index": 0,
+        "exchange_name": "binance",
+        "exchange_rate": 100.0,
+        "exchange_unit": "USDT"
+      },
+      {
+        "index": 1,
+        "exchange_name": "FTX",
+        "exchange_rate": 101.0,
+        "exchange_unit": "USDT"
+      },
+      {
+        "index": 2,
+        "exchange_name": "HUOBI",
+        "exchange_rate": 102.0,
+        "exchange_unit": "USDT"
+      },
+      {
+        "index": 3,
+        "exchange_name": "KUCOIN",
+        "exchange_rate": 103.0,
+        "exchange_unit": "USDT"
+      },
+      {
+        "index": 4,
+        "exchange_name": "MEXC",
+        "exchange_rate": 104.0,
+        "exchange_unit": "USDT"
+      },
+      {
+        "index": 5,
+        "exchange_name": "ByBit",
+        "exchange_rate": 99.0,
+        "exchange_unit": "USDT"
+      },
+      {
+        "index": 6,
+        "exchange_name": "Gate.io",
+        "exchange_rate": 98.0,
+        "exchange_unit": "USDT"
+      }
+
+    ]
+  },
+  {
+    "index": 40,
+    "symbol": "FLM",
+    "exchange_rates_all": [
+      {
+        "index": 0,
+        "exchange_name": "binance",
+        "exchange_rate": 100.0,
+        "exchange_unit": "USDT"
+      },
+      {
+        "index": 1,
+        "exchange_name": "FTX",
+        "exchange_rate": 101.0,
+        "exchange_unit": "USDT"
+      },
+      {
+        "index": 2,
+        "exchange_name": "HUOBI",
+        "exchange_rate": 102.0,
+        "exchange_unit": "USDT"
+      },
+      {
+        "index": 3,
+        "exchange_name": "KUCOIN",
+        "exchange_rate": 103.0,
+        "exchange_unit": "USDT"
+      },
+      {
+        "index": 4,
+        "exchange_name": "MEXC",
+        "exchange_rate": 104.0,
+        "exchange_unit": "USDT"
+      },
+      {
+        "index": 5,
+        "exchange_name": "ByBit",
+        "exchange_rate": 99.0,
+        "exchange_unit": "USDT"
+      },
+      {
+        "index": 6,
+        "exchange_name": "Gate.io",
+        "exchange_rate": 98.0,
+        "exchange_unit": "USDT"
+      }
+
+    ]
+  },
+  {
+    "index": 41,
+    "symbol": "GALA",
+    "exchange_rates_all": [
+      {
+        "index": 0,
+        "exchange_name": "binance",
+        "exchange_rate": 100.0,
+        "exchange_unit": "USDT"
+      },
+      {
+        "index": 1,
+        "exchange_name": "FTX",
+        "exchange_rate": 101.0,
+        "exchange_unit": "USDT"
+      },
+      {
+        "index": 2,
+        "exchange_name": "HUOBI",
+        "exchange_rate": 102.0,
+        "exchange_unit": "USDT"
+      },
+      {
+        "index": 3,
+        "exchange_name": "KUCOIN",
+        "exchange_rate": 103.0,
+        "exchange_unit": "USDT"
+      },
+      {
+        "index": 4,
+        "exchange_name": "MEXC",
+        "exchange_rate": 104.0,
+        "exchange_unit": "USDT"
+      },
+      {
+        "index": 5,
+        "exchange_name": "ByBit",
+        "exchange_rate": 99.0,
+        "exchange_unit": "USDT"
+      },
+      {
+        "index": 6,
+        "exchange_name": "Gate.io",
+        "exchange_rate": 98.0,
+        "exchange_unit": "USDT"
+      }
+
+    ]
+  },
+  {
+    "index": 42,
+    "symbol": "GRT",
+    "exchange_rates_all": [
+      {
+        "index": 0,
+        "exchange_name": "binance",
+        "exchange_rate": 100.0,
+        "exchange_unit": "USDT"
+      },
+      {
+        "index": 1,
+        "exchange_name": "FTX",
+        "exchange_rate": 101.0,
+        "exchange_unit": "USDT"
+      },
+      {
+        "index": 2,
+        "exchange_name": "HUOBI",
+        "exchange_rate": 102.0,
+        "exchange_unit": "USDT"
+      },
+      {
+        "index": 3,
+        "exchange_name": "KUCOIN",
+        "exchange_rate": 103.0,
+        "exchange_unit": "USDT"
+      },
+      {
+        "index": 4,
+        "exchange_name": "MEXC",
+        "exchange_rate": 104.0,
+        "exchange_unit": "USDT"
+      },
+      {
+        "index": 5,
+        "exchange_name": "ByBit",
+        "exchange_rate": 99.0,
+        "exchange_unit": "USDT"
+      },
+      {
+        "index": 6,
+        "exchange_name": "Gate.io",
+        "exchange_rate": 98.0,
+        "exchange_unit": "USDT"
+      }
+
+    ]
+  },
+  {
+    "index": 43,
+    "symbol": "HNT",
+    "exchange_rates_all": [
+      {
+        "index": 0,
+        "exchange_name": "binance",
+        "exchange_rate": 100.0,
+        "exchange_unit": "USDT"
+      },
+      {
+        "index": 1,
+        "exchange_name": "FTX",
+        "exchange_rate": 101.0,
+        "exchange_unit": "USDT"
+      },
+      {
+        "index": 2,
+        "exchange_name": "HUOBI",
+        "exchange_rate": 102.0,
+        "exchange_unit": "USDT"
+      },
+      {
+        "index": 3,
+        "exchange_name": "KUCOIN",
+        "exchange_rate": 103.0,
+        "exchange_unit": "USDT"
+      },
+      {
+        "index": 4,
+        "exchange_name": "MEXC",
+        "exchange_rate": 104.0,
+        "exchange_unit": "USDT"
+      },
+      {
+        "index": 5,
+        "exchange_name": "ByBit",
+        "exchange_rate": 99.0,
+        "exchange_unit": "USDT"
+      },
+      {
+        "index": 6,
+        "exchange_name": "Gate.io",
+        "exchange_rate": 98.0,
+        "exchange_unit": "USDT"
+      }
+
+    ]
+  },
+  {
+    "index": 44,
+    "symbol": "ILV",
+    "exchange_rates_all": [
+      {
+        "index": 0,
+        "exchange_name": "binance",
+        "exchange_rate": 100.0,
+        "exchange_unit": "USDT"
+      },
+      {
+        "index": 1,
+        "exchange_name": "FTX",
+        "exchange_rate": 101.0,
+        "exchange_unit": "USDT"
+      },
+      {
+        "index": 2,
+        "exchange_name": "HUOBI",
+        "exchange_rate": 102.0,
+        "exchange_unit": "USDT"
+      },
+      {
+        "index": 3,
+        "exchange_name": "KUCOIN",
+        "exchange_rate": 103.0,
+        "exchange_unit": "USDT"
+      },
+      {
+        "index": 4,
+        "exchange_name": "MEXC",
+        "exchange_rate": 104.0,
+        "exchange_unit": "USDT"
+      },
+      {
+        "index": 5,
+        "exchange_name": "ByBit",
+        "exchange_rate": 99.0,
+        "exchange_unit": "USDT"
+      },
+      {
+        "index": 6,
+        "exchange_name": "Gate.io",
+        "exchange_rate": 98.0,
+        "exchange_unit": "USDT"
+      }
+
+    ]
+  },
+  {
+    "index": 45,
+    "symbol": "IOTX",
+    "exchange_rates_all": [
+      {
+        "index": 0,
+        "exchange_name": "binance",
+        "exchange_rate": 100.0,
+        "exchange_unit": "USDT"
+      },
+      {
+        "index": 1,
+        "exchange_name": "FTX",
+        "exchange_rate": 101.0,
+        "exchange_unit": "USDT"
+      },
+      {
+        "index": 2,
+        "exchange_name": "HUOBI",
+        "exchange_rate": 102.0,
+        "exchange_unit": "USDT"
+      },
+      {
+        "index": 3,
+        "exchange_name": "KUCOIN",
+        "exchange_rate": 103.0,
+        "exchange_unit": "USDT"
+      },
+      {
+        "index": 4,
+        "exchange_name": "MEXC",
+        "exchange_rate": 104.0,
+        "exchange_unit": "USDT"
+      },
+      {
+        "index": 5,
+        "exchange_name": "ByBit",
+        "exchange_rate": 99.0,
+        "exchange_unit": "USDT"
+      },
+      {
+        "index": 6,
+        "exchange_name": "Gate.io",
+        "exchange_rate": 98.0,
+        "exchange_unit": "USDT"
+      }
+
+    ]
+  },
+  {
+    "index": 46,
+    "symbol": "KAVA",
+    "exchange_rates_all": [
+      {
+        "index": 0,
+        "exchange_name": "binance",
+        "exchange_rate": 100.0,
+        "exchange_unit": "USDT"
+      },
+      {
+        "index": 1,
+        "exchange_name": "FTX",
+        "exchange_rate": 101.0,
+        "exchange_unit": "USDT"
+      },
+      {
+        "index": 2,
+        "exchange_name": "HUOBI",
+        "exchange_rate": 102.0,
+        "exchange_unit": "USDT"
+      },
+      {
+        "index": 3,
+        "exchange_name": "KUCOIN",
+        "exchange_rate": 103.0,
+        "exchange_unit": "USDT"
+      },
+      {
+        "index": 4,
+        "exchange_name": "MEXC",
+        "exchange_rate": 104.0,
+        "exchange_unit": "USDT"
+      },
+      {
+        "index": 5,
+        "exchange_name": "ByBit",
+        "exchange_rate": 99.0,
+        "exchange_unit": "USDT"
+      },
+      {
+        "index": 6,
+        "exchange_name": "Gate.io",
+        "exchange_rate": 98.0,
+        "exchange_unit": "USDT"
+      }
+
+    ]
+  },
+  {
+    "index": 47,
+    "symbol": "KDA",
+    "exchange_rates_all": [
+      {
+        "index": 0,
+        "exchange_name": "binance",
+        "exchange_rate": 100.0,
+        "exchange_unit": "USDT"
+      },
+      {
+        "index": 1,
+        "exchange_name": "FTX",
+        "exchange_rate": 101.0,
+        "exchange_unit": "USDT"
+      },
+      {
+        "index": 2,
+        "exchange_name": "HUOBI",
+        "exchange_rate": 102.0,
+        "exchange_unit": "USDT"
+      },
+      {
+        "index": 3,
+        "exchange_name": "KUCOIN",
+        "exchange_rate": 103.0,
+        "exchange_unit": "USDT"
+      },
+      {
+        "index": 4,
+        "exchange_name": "MEXC",
+        "exchange_rate": 104.0,
+        "exchange_unit": "USDT"
+      },
+      {
+        "index": 5,
+        "exchange_name": "ByBit",
+        "exchange_rate": 99.0,
+        "exchange_unit": "USDT"
+      },
+      {
+        "index": 6,
+        "exchange_name": "Gate.io",
+        "exchange_rate": 98.0,
+        "exchange_unit": "USDT"
+      }
+
+    ]
+  },
+  {
+    "index": 48,
+    "symbol": "KNC",
+    "exchange_rates_all": [
+      {
+        "index": 0,
+        "exchange_name": "binance",
+        "exchange_rate": 100.0,
+        "exchange_unit": "USDT"
+      },
+      {
+        "index": 1,
+        "exchange_name": "FTX",
+        "exchange_rate": 101.0,
+        "exchange_unit": "USDT"
+      },
+      {
+        "index": 2,
+        "exchange_name": "HUOBI",
+        "exchange_rate": 102.0,
+        "exchange_unit": "USDT"
+      },
+      {
+        "index": 3,
+        "exchange_name": "KUCOIN",
+        "exchange_rate": 103.0,
+        "exchange_unit": "USDT"
+      },
+      {
+        "index": 4,
+        "exchange_name": "MEXC",
+        "exchange_rate": 104.0,
+        "exchange_unit": "USDT"
+      },
+      {
+        "index": 5,
+        "exchange_name": "ByBit",
+        "exchange_rate": 99.0,
+        "exchange_unit": "USDT"
+      },
+      {
+        "index": 6,
+        "exchange_name": "Gate.io",
+        "exchange_rate": 98.0,
+        "exchange_unit": "USDT"
+      }
+
+    ]
+  },
+  {
+    "index": 49,
+    "symbol": "KSM",
+    "exchange_rates_all": [
+      {
+        "index": 0,
+        "exchange_name": "binance",
+        "exchange_rate": 100.0,
+        "exchange_unit": "USDT"
+      },
+      {
+        "index": 1,
+        "exchange_name": "FTX",
+        "exchange_rate": 101.0,
+        "exchange_unit": "USDT"
+      },
+      {
+        "index": 2,
+        "exchange_name": "HUOBI",
+        "exchange_rate": 102.0,
+        "exchange_unit": "USDT"
+      },
+      {
+        "index": 3,
+        "exchange_name": "KUCOIN",
+        "exchange_rate": 103.0,
+        "exchange_unit": "USDT"
+      },
+      {
+        "index": 4,
+        "exchange_name": "MEXC",
+        "exchange_rate": 104.0,
+        "exchange_unit": "USDT"
+      },
+      {
+        "index": 5,
+        "exchange_name": "ByBit",
+        "exchange_rate": 99.0,
+        "exchange_unit": "USDT"
+      },
+      {
+        "index": 6,
+        "exchange_name": "Gate.io",
+        "exchange_rate": 98.0,
+        "exchange_unit": "USDT"
+      }
+
+    ]
+  },
+  {
+    "index": 50,
+    "symbol": "1INCH",
+    "exchange_rates_all": [
+      {
+        "index": 0,
+        "exchange_name": "binance",
+        "exchange_rate": 100.0,
+        "exchange_unit": "USDT"
+      },
+      {
+        "index": 1,
+        "exchange_name": "FTX",
+        "exchange_rate": 101.0,
+        "exchange_unit": "USDT"
+      },
+      {
+        "index": 2,
+        "exchange_name": "HUOBI",
+        "exchange_rate": 102.0,
+        "exchange_unit": "USDT"
+      },
+      {
+        "index": 3,
+        "exchange_name": "KUCOIN",
+        "exchange_rate": 103.0,
+        "exchange_unit": "USDT"
+      },
+      {
+        "index": 4,
+        "exchange_name": "MEXC",
+        "exchange_rate": 104.0,
+        "exchange_unit": "USDT"
+      },
+      {
+        "index": 5,
+        "exchange_name": "ByBit",
+        "exchange_rate": 99.0,
+        "exchange_unit": "USDT"
+      },
+      {
+        "index": 6,
+        "exchange_name": "Gate.io",
+        "exchange_rate": 98.0,
+        "exchange_unit": "USDT"
+      }
+
+    ]
+  }
+]
