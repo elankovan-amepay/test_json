@@ -1,0 +1,30 @@
+[
+  {
+    "index": 0,
+    "exchange_name": "BINANCE"
+  },
+  {
+    "index": 1,
+    "exchange_name": "FTX"
+  },
+  {
+    "index": 2,
+    "exchange_name": "HUOBI"
+  },  
+  {
+    "index": 3,
+    "exchange_name": "KUCOIN"
+  },  
+  {
+    "index": 4,
+    "exchange_name": "MEXC"
+  },  
+  {
+    "index": 5,
+    "exchange_name": "BYBIT"
+  },  
+  {
+    "index": 6,
+    "exchange_name": "GATE.IO"
+  }
+  ]
